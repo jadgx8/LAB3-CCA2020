@@ -1,5 +1,6 @@
 # LAB3-CCA2020
 Complejidad de Algoritmo - Divide y Venceras
+Integrantes: De Gracia Jesus & Ojo Gisela
 
 Desarrollar:
 1. Búsqueda Binaria.
