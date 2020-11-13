@@ -13,3 +13,7 @@ La técnica divide y vencerás consiste en:
 - Descomponer un problema en un conjunto de subproblemas más pequeños.
 - Se resuelven estos subproblemas.
 - Se combinan las soluciones para obtener la solución para el problema original.
+
+Para Probar el Codigo:
+- Se instalan las librerias solicitadas
+- Se ejecuta el script menu.py
